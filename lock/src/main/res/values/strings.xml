@@ -107,6 +107,7 @@
     <string name="com_auth0_lock_hint_password">Password</string>
     <string name="com_auth0_lock_hint_username">Username</string>
     <string name="com_auth0_lock_hint_username_or_email">Username/Email</string>
+    <string name="com_auth0_lock_hint_search_country">Search your country</string>
     <string name="com_auth0_lock_input_error_email">Email not valid</string>
     <string name="com_auth0_lock_input_error_password">Must have at least 6 chars</string>
     <string name="com_auth0_lock_input_error_username">Must have at least 6 chars and no spaces</string>
